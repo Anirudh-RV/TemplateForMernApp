@@ -1,2 +1,1 @@
-# CompareFacesWebApp
-Using face_recognition library, try to build a web app which helps comparing faces 
+#TEMPLATE FOR MERN WEBAPP, USES GO AND DJANGO  
