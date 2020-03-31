@@ -1,5 +1,6 @@
-#TEMPLATE FOR MERN WEBAPP, USES GO AND DJANGO  
+# TEMPLATE FOR MERN WEBAPP, USES GO AND DJANGO  
 
+# How to run 
 Reactjs : 3000
 1. cd Client
 2. npm install
