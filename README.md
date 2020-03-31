@@ -1,6 +1,6 @@
 # TEMPLATE FOR MERN WEBAPP, USES GO AND DJANGO  
 
-# How to run 
+# How to run
 Reactjs : 3000
 1. cd Client
 2. npm install
@@ -21,20 +21,8 @@ NodeServer: 4000
 
 **if npm build is failing, install by : npm install <absent library>**
 
-For building yolo9000 :
-1. pip install Cython
-2. git clone https://github.com/thtrieu/darkflow.git
-3. cd darkflow
-4. python3 setup.py build_ext --inplace
-5. pip install .
 **anywhere in the system**
-
 To get mongo working :
 1. use GoDB
 2. db.createCollection("ImageNames")
 3. db.createCollection("UserData")
-
-**Surveillance_System**
-1. Install DarkNet
-2. Install Cython
-3. Download both weights from :
